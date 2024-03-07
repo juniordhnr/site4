@@ -1,29 +1,6 @@
-import random
-
-def guessing_game():
-    secret_number = random.randint(1, 100)
-    attempts = 0
-
-    print("Welcome to the Guessing Game!")
-    print("I'm thinking of a number between 1 and 100.")
-
-    while True:
-        guess = input("Take a guess: ")
-        try:
-            guess = int(guess)
-        except ValueError:
-            print("Please enter a valid number.")
-            continue
-
-        attempts += 1
-
-        if guess < secret_number:
-            print("Too low. Try again.")
-        elif guess > secret_number:
-            print("Too high. Try again.")
-        else:
-            print(f"Congratulations! You guessed the number {secret_number} in {attempts} attempts!")
-            break
-
-if __name__ == "__main__":
-    guessing_game()
+<h1>想当丁院长的狗24.3.7</h1>
+我趴在DYY的脚下，用嘴包裹住她的大脚趾，舌头一圈圈的转圈，为她清除掉脚上的脚垢，然后依次舔她的另外四个脚趾头上的脚泥都吃掉咽下肚子里，然后为她的脚底板清理死皮，最后全部吃掉，Dy说，另一只也要这么做，用唾液好好给我洗洗脚，然后我亲吻她的鞋子，又把她脏鞋上的灰尘全部吃掉，这就是我爬下给她清理脚丫的全过程
+<h1>给潘寒治疗宫寒24.3.6</h1>
+好想跪在PJR的脚下给她治疗宫寒，用嘴包裹住她的下阴，然后慢慢哈气，慢慢抚慰，用口腔的温度去温暖她的跨部，最后跪在她的厕所里，吃掉她所有的大便来确认是不是治好了
+<h1>聚餐幻想</h1>
+去千禧吃饭给晓哲的孩子庆生，一进门，就给丁院长跪下了，然后用嘴包裹住她的鞋头，她也配合我的左右晃动鞋子，让我把她鞋子的前面都清理一遍，然后我又侧过头去亲吻卢护士长的鞋子，直到把她鞋子的每一个部位都亲吻了一个遍，她们才放我过去，然后我以此给每个护士长磕头问安，最后给晓哲护士长磕头的时候，给她的孩子也磕头了，她的孩子也比我高贵一千倍，一万倍，因此我也给她的孩子磕了很多个头，然后她就让我退下了
